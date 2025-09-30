@@ -35,20 +35,20 @@ P | 0
 
 |Part|Name|
 |-|----------------|
-A | 
-B | 
-C | 
+A | Harper
+B | Caylen
+C | David
 D |    (already done)
-E | 
-F | 
+E | Addison
+F | Gabby
 G |    (already done)
-H | 
-I | 
-J | 
-K | 
-L | 
-M | 
-N | 
-O | 
+H | Eric
+I | Madeline
+J | Blake
+K | DJ
+L | Curtis
+M | Cenobio
+N | Adam
+O | Stephen
 P |    (already done)
 
