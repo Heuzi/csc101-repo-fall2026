@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<style>text { font-family: Arial, Helvetica, sans-serif; font-size:12px; }</style>
+<rect width="100%" height="100%" fill="white"/>
+<line x1="600.0" y1="108.0" x2="896.2" y2="279.0" stroke="#999" stroke-width="1.6" />
+<line x1="600.0" y1="108.0" x2="380.2" y2="712.0" stroke="#999" stroke-width="1.6" />
+<line x1="717.0" y1="128.6" x2="896.2" y2="621.0" stroke="#999" stroke-width="1.6" />
+<line x1="717.0" y1="128.6" x2="303.8" y2="621.0" stroke="#999" stroke-width="1.6" />
+<line x1="896.2" y1="279.0" x2="380.2" y2="712.0" stroke="#999" stroke-width="1.6" />
+<line x1="936.8" y1="509.4" x2="380.2" y2="712.0" stroke="#999" stroke-width="1.6" />
+<line x1="936.8" y1="509.4" x2="303.8" y2="279.0" stroke="#999" stroke-width="1.6" />
+<line x1="896.2" y1="621.0" x2="303.8" y2="621.0" stroke="#999" stroke-width="1.6" />
+<line x1="819.8" y1="712.0" x2="717.0" y2="771.4" stroke="#999" stroke-width="1.6" />
+<line x1="819.8" y1="712.0" x2="263.2" y2="509.4" stroke="#999" stroke-width="1.6" />
+<line x1="819.8" y1="712.0" x2="263.2" y2="390.6" stroke="#999" stroke-width="1.6" />
+<line x1="819.8" y1="712.0" x2="380.2" y2="188.0" stroke="#999" stroke-width="1.6" />
+<line x1="717.0" y1="771.4" x2="263.2" y2="509.4" stroke="#999" stroke-width="1.6" />
+<line x1="717.0" y1="771.4" x2="263.2" y2="390.6" stroke="#999" stroke-width="1.6" />
+<line x1="717.0" y1="771.4" x2="380.2" y2="188.0" stroke="#999" stroke-width="1.6" />
+<line x1="483.0" y1="771.4" x2="303.8" y2="621.0" stroke="#999" stroke-width="1.6" />
+<line x1="483.0" y1="771.4" x2="483.0" y2="128.6" stroke="#999" stroke-width="1.6" />
+<line x1="380.2" y1="712.0" x2="303.8" y2="279.0" stroke="#999" stroke-width="1.6" />
+<line x1="303.8" y1="621.0" x2="483.0" y2="128.6" stroke="#999" stroke-width="1.6" />
+<line x1="263.2" y1="509.4" x2="263.2" y2="390.6" stroke="#999" stroke-width="1.6" />
+<line x1="263.2" y1="509.4" x2="380.2" y2="188.0" stroke="#999" stroke-width="1.6" />
+<line x1="263.2" y1="390.6" x2="380.2" y2="188.0" stroke="#999" stroke-width="1.6" />
+<circle cx="600.0" cy="108.0" r="18" fill="#fdcdac" stroke="#333" stroke-width="1.2"/>
+<text x="600.0" y="140.0" text-anchor="middle">MAT105A</text>
+<circle cx="717.0" cy="128.6" r="18" fill="#fdcdac" stroke="#333" stroke-width="1.2"/>
+<text x="717.0" y="160.6" text-anchor="middle">MAT105B</text>
+<circle cx="819.8" cy="188.0" r="18" fill="#b3e2cd" stroke="#333" stroke-width="1.2"/>
+<text x="819.8" y="220.0" text-anchor="middle">MAT111A</text>
+<circle cx="896.2" cy="279.0" r="18" fill="#fdcdac" stroke="#333" stroke-width="1.2"/>
+<text x="896.2" y="311.0" text-anchor="middle">MAT111B</text>
+<circle cx="936.8" cy="390.6" r="18" fill="#b3e2cd" stroke="#333" stroke-width="1.2"/>
+<text x="936.8" y="422.6" text-anchor="middle">MAT111C</text>
+<circle cx="936.8" cy="509.4" r="18" fill="#fdcdac" stroke="#333" stroke-width="1.2"/>
+<text x="936.8" y="541.4" text-anchor="middle">MAT111D</text>
+<circle cx="896.2" cy="621.0" r="18" fill="#fdcdac" stroke="#333" stroke-width="1.2"/>
+<text x="896.2" y="653.0" text-anchor="middle">MAT111E</text>
+<circle cx="819.8" cy="712.0" r="18" fill="#cbd5e8" stroke="#333" stroke-width="1.2"/>
+<text x="819.8" y="744.0" text-anchor="middle">MAT111F</text>
+<circle cx="717.0" cy="771.4" r="18" fill="#cbd5e8" stroke="#333" stroke-width="1.2"/>
+<text x="717.0" y="803.4" text-anchor="middle">MAT120A</text>
+<circle cx="600.0" cy="792.0" r="18" fill="#b3e2cd" stroke="#333" stroke-width="1.2"/>
+<text x="600.0" y="824.0" text-anchor="middle">MAT145A</text>
+<circle cx="483.0" cy="771.4" r="18" fill="#fdcdac" stroke="#333" stroke-width="1.2"/>
+<text x="483.0" y="803.4" text-anchor="middle">MAT145B</text>
+<circle cx="380.2" cy="712.0" r="18" fill="#cbd5e8" stroke="#333" stroke-width="1.2"/>
+<text x="380.2" y="744.0" text-anchor="middle">MAT201A</text>
+<circle cx="303.8" cy="621.0" r="18" fill="#cbd5e8" stroke="#333" stroke-width="1.2"/>
+<text x="303.8" y="653.0" text-anchor="middle">MAT201B</text>
+<circle cx="263.2" cy="509.4" r="18" fill="#cbd5e8" stroke="#333" stroke-width="1.2"/>
+<text x="263.2" y="541.4" text-anchor="middle">MAT201C</text>
+<circle cx="263.2" cy="390.6" r="18" fill="#cbd5e8" stroke="#333" stroke-width="1.2"/>
+<text x="263.2" y="422.6" text-anchor="middle">MAT202A</text>
+<circle cx="303.8" cy="279.0" r="18" fill="#fdcdac" stroke="#333" stroke-width="1.2"/>
+<text x="303.8" y="311.0" text-anchor="middle">CSC219A</text>
+<circle cx="380.2" cy="188.0" r="18" fill="#cbd5e8" stroke="#333" stroke-width="1.2"/>
+<text x="380.2" y="220.0" text-anchor="middle">MAT312A</text>
+<circle cx="483.0" cy="128.6" r="18" fill="#fdcdac" stroke="#333" stroke-width="1.2"/>
+<text x="483.0" y="160.6" text-anchor="middle">MAT303A</text>
+<g transform="translate(20,30)">
+<rect x="-10" y="-18" width="260" height="86" fill="#fff8" stroke="#666" stroke-width="0.8"/>
+<circle cx="8" cy="0" r="8" fill="#b3e2cd" stroke="#333"/><text x="26" y="4">degree 0 (no conflicts)</text>
+<circle cx="8" cy="22" r="8" fill="#fdcdac" stroke="#333"/><text x="26" y="26">degree 1–2 (few conflicts)</text>
+<circle cx="8" cy="44" r="8" fill="#cbd5e8" stroke="#333"/><text x="26" y="48">degree 3–4 (moderate)</text>
+<circle cx="8" cy="66" r="8" fill="#f4a582" stroke="#333"/><text x="26" y="70">degree 5+ (many conflicts)</text>
+</g>
+</svg>
