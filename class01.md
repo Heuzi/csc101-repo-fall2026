@@ -4,7 +4,7 @@
 
 - ℹ Intros 
 
-- Join ⌨ Typing.com classroom: [https://typing.com/join#6890CDFA567CE](https://typing.com/join#6890CDFA567CE) (Class join code: `6890CDFA567CE`)
+- Join ⌨ Typing.com classroom: [https://www.typing.com/join#6A354CBBD081E](https://www.typing.com/join#6A354CBBD081E) (Class join code: `6A354CBBD081E`)
     - 1-minute baseline test
 
 - Access 📚 LinkedIn Learning - create a preliminary LinkedIn profile.
